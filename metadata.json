@@ -1,0 +1,4 @@
+{
+  "name": "AI Medical Diagnostic Assistant",
+  "description": "An AI-powered application to assist in detecting specific diseases from medical images and patient data. This tool provides a prediction, confidence score, reasoning, and recommendation based on the uploaded information."
+}
