@@ -18,3 +18,12 @@ View your app in AI Studio: https://ai.studio/apps/temp/1
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+## Project Context
+This project was developed as part of a final-year academic team project.
+
+Original repository:
+https://github.com/ABHISHEK-06HG/A-Multimodel-ai-framework
+
+## My Contribution
+- Integrated Google Gemini API for processing patient data and medical images  
+- Contributed to backend workflow for AI-based diagnostic response generation
